@@ -19,28 +19,28 @@ ECHONETLite2MQTTについては、 [こちら](https://github.com/banban525/echo
 
 __手動登録方法__
 
-1.1. Home Assistantにログインし、Settings → Add-ons → Add-on store を開きます。
+1.1. Home Assistantにログインし、設定 → アドオン → アドオンストア を開きます。
 
-1.2. 右上のメニューからRepositoriesを選択して、Manage add-on repositoriesを開きます。
+1.2. 右上のメニューから"リポジトリ"を選択して、"アドオンリポジトリの管理"を開きます。
 
-1.3. `https://github.com/banban525/hassio-echonetlite2mqtt` を入力し、ADDを押して登録します。
+1.3. `https://github.com/banban525/hassio-echonetlite2mqtt` を入力し、"追加"を押して登録します。
 
 
-### 2. Addonをインストールします。
+### 2. アドオンをインストールします。
 
-2.1. Home Assistantにログインし、Settings → Add-ons → Add-on store を開きます。
+2.1. Home Assistantにログインし、設定 → アドオン → アドオンストア を開きます。
 
-2.2. ECHONETLite2MQTTが無いなら、右上のメニューから Check for updates を実行します。必要に応じてWebページを更新してください。
+2.2. ECHONETLite2MQTTが無いなら、右上のメニューから "アップデートの確認" を実行します。必要に応じてWebページを更新してください。
 
 2.3. ECHONETLite2MQTTを開きます。
 
-2.4. INSTALLボタンでインストールします。
+2.4. "インストール"ボタンでインストールします。
 
 ## 設定と使用方法
 
-3.1. Settings → Add-ons を開き、ECHONETLite2MQTTを開きます。
+3.1. 設定 → アドオン を開き、ECHONETLite2MQTTを開きます。
 
-3.2. Configurationを開いて、設定を行います。設定方法はDocumentationを参照してください。
+3.2. "設定"を開いて、設定を行います。設定方法は"ドキュメント"を参照してください。
 
-3.3. ECHONETLite2MQTTのAdd-onsページで、STARTボタンで開始します。
+3.3. ECHONETLite2MQTTのアドオンページで、"開始"ボタンで開始します。
 
