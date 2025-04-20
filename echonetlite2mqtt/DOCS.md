@@ -1,5 +1,4 @@
 # ECHONETLite2MQTT
 
-ECHONET Lite to MQTT bridge.
+## How to set it up
 
-[日本語のReadmeはこちら (Readme in Japanese is here)](DOCS.ja.md)
