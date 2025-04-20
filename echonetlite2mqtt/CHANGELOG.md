@@ -1,6 +1,5 @@
-## v3.4.1-alpha
+## v3.5.0
 
-Bug fixes:
+Added 
+* Support for Home Assistant Addon.
 
-* The administration web page hangs #41
-  Event notifications from the server have been changed from server sent events to WebSocket.
